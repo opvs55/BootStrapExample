@@ -1,0 +1,22 @@
+.three-columns{
+    height: 300px;
+}
+
+.lorem1{
+    height: 20vh;
+    min-width: 50vw;
+    background-color: black;
+}
+
+.lorem2{
+    background-color: wheat;
+}
+
+.lorem3{
+    background-color: blueviolet;
+}
+
+
+.test1, .test2, .test3{
+    background-color: grey;
+}
